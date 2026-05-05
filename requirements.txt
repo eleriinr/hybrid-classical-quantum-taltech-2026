@@ -1,0 +1,17 @@
+numpy
+scipy
+pandas
+scikit-learn
+xgboost
+torch
+torchvision
+qiskit==1.4.4
+qiskit-aer==0.17.2
+qiskit-algorithms==0.4.0
+qiskit-machine-learning==0.8.4
+opencv-python
+matplotlib
+seaborn
+joblib
+Pillow
+fastdtw
